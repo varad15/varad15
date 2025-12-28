@@ -1,5 +1,11 @@
 # 💫 About Me:
-i am currently a final year student pursuing bachelors in technology in computer engineering  domain<br>actively looking for tech internships and full time opportunities.<br>i have solved 120+ leetcode and enjoy building scalable projects, specifically where user feedback matters, or is user facing,<br>i enjoy working in java and backend domain
+I’m a final-year B.Tech Computer Engineering student with a strong inclination toward backend engineering and scalable system design. I enjoy solving real-world problems where performance, reliability, and user experience matter.
+
+I’ve solved 120+ LeetCode problems, which has helped me build solid intuition around data structures, algorithms, and problem decomposition. Beyond problem-solving, I actively work on user-facing and feedback-driven projects, focusing on writing clean, maintainable backend code.
+
+My primary stack revolves around Java, with hands-on experience in backend development, RESTful APIs, databases, and system fundamentals. I like understanding why systems work the way they do—whether it’s request lifecycles, data consistency, or performance trade-offs.
+
+Currently, I’m actively seeking software engineering internships and full-time roles where I can contribute meaningfully, learn from experienced engineers, and build systems that scale.
 
 
 ## 🌐 Socials:
