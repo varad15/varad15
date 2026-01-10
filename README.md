@@ -12,6 +12,7 @@ Currently, I’m actively seeking software engineering internships and full-time
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varad-jumbad-a02b57256)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varadjumbad15@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?logo=vercel&logoColor=white)](https://website-cv-vpar.vercel.app/)
 
 ---
 
